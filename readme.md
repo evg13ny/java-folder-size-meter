@@ -1,3 +1,3 @@
-A folder or file size meter written in Java using recursion.
+A folder or file size meter is written in Java using recursion.
 
-The methods are tested in JUnit.
+The methods were tested in JUnit.
